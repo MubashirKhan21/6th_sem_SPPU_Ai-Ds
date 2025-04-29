@@ -1,0 +1,4 @@
+MapReduce is a programming model for processing large data sets.
+          It consists of a Map function that processes and filters data.
+          A Reduce function aggregates the results and gives final output.
+          The MapReduce framework is used in distributed computing.
